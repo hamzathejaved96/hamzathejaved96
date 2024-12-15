@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">A passionate Data Analyst from Pakistan</h3>
+<h3 align="center">A passionate Data Scientist in Dubai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzathejaved96&label=Profile%20views&color=0e75b6&style=flat" alt="hamzathejaved96" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzathejaved96" alt="hamzathejaved96" /></a> </p>
 
-- 🔭 I’m currently working on [Danny Ma's 8 Week SQL Challenge](https://github.com/hamzathejaved96/8WeekChallenge)
-
-- 🌱 I’m currently learning **Machine Learning & Data Science**
+- 🔭 I’m currently working on fueling user growth at Spotify!
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamzathejaved96/hamzathejaved96](https://github.com/hamzathejaved96/hamzathejaved96)
 
 - 📝 I regularly write articles on [https://medium.com/@hamzajavedemfss](https://medium.com/@hamzajavedemfss)
 
-- 💬 Ask me about **analytics, economics**
+- 💬 Ask me about **analytics, economics, data science**
 
 - 📫 How to reach me **hamza.javed.emfss@gmail.com**
 
-- ⚡ Fun fact **I love working out just as much as working with data!**
+- ⚡ Fun fact **I love running just as much as working with data!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
